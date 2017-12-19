@@ -1,0 +1,42 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~43|Field=Description~String~Description~293|Field=Designator~String~Designator~117|Field=Footprint~String~Footprint~84|Field=LibRef~String~LibRef~54|Field=Quantity~Integer~Quantity~23|Field=Value~String~Value~86|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RF_kucuk_kart.PrjPcb|ReportField=ProjectFullPath~D:\programlar\RF Coklu proje\RF Yan Kart\RF_kucuk_kart\RF_kucuk_kart.PrjPcb|ReportField=Title~Bill of Materials For Project [RF_kucuk_kart.PrjPcb] (PCB Document : mainpcb.PcbDoc)|ReportField=TotalQuantity~92|ReportField=ReportTime~00:37:10|ReportField=ReportDate~18.07.2017|ReportField=ReportDateTime~18.07.2017 00:37:10|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~18.07.2017|ReportField=CurrentTime~00:06:37|ReportField=Date~|ReportField=DocumentFullPathAndName~D:\programlar\RF Coklu proje\RF Yan Kart\RF_kucuk_kart\main sch.SchDoc|ReportField=DocumentName~main sch.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~24.06.2017|ReportField=Organization~|ReportField=ProjectName~RF_kucuk_kart.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RF_kucuk_kart.PrjPcb|ReportField=DataSourceFullPath~D:\programlar\RF Coklu proje\RF Yan Kart\RF_kucuk_kart\RF_kucuk_kart.PrjPcb|ReportField=PCBDataSourceFileName~mainpcb.PcbDoc|ReportField=PCBDataSourceFullPath~D:\programlar\RF Coklu proje\RF Yan Kart\RF_kucuk_kart\mainpcb.PcbDoc|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|Battery|Multicell Battery|BT1|BAT-2|Battery|1|
+2|18pF|Non-polarised capacitor|C1, C2|CAPC1608X87N|CC0603_750PF_50V_5%_NP0|2|18pF
+3|22pF|Non-polarised capacitor|C3|CAPC2012X135N|CC0805_10NF_50V_10%_X7R|1|22pF
+4|100nF|Non-polarised capacitor|C4, C5, C6, C7, C8, C9|CAPC2012X135N|CC0805_1NF_50V_5%_X7R|6|100nF
+5|C0805|Ceramic Chip Capacitor - Standard|C10, C11, C12, C13, C14, C15, C16, C17|0805|C0805|8|10uF, 10uF, 10uF, 22pF, 10uF, 10uF, 10uF, 10uF
+6|PMEG2010AEH|Switching Diode, 2-Pin SOD-123, Pb-Free, Tape and Reel|D1, D3|ONSC-SOD-123-2-425-04_V|MMSD914T3G|2|
+7|MBRA340T3G|Schottky Diode|D2|DIOM5226X220N|MBRA340T3G|1|
+8|SDKART||H1|PCBComponent_1|SDKART|1|
+9|440478-2|USB 2.0, Right Angle, SMT, A Type, Receptacle, 5 Position, Black|J1|440478|440478-2|1|
+10|Family|Connector 2 Male|J2|PHOENIX_1757242|PHOENIX_1757242|1|
+11|Relay-SPST|Single-Pole Single-Throw Relay|K1|REL_FINDER_32.22.X.XXX.X300|Relay-SPST|1|
+12|74404032047|WE-LQS SMD Power Inductor, L=4.7 µH|L1|WE-LQS 3015|74404032047|1|
+13|74438322022|Power Multilayer Inductor WE-MAPI, L=2.2µH|L2|SMD 2508|74438322022|1|
+14|Green|LED Green 1C 2A|LD1, LD2, LD3, LD4, LD5, LD6, LD7|LED_OSRAM_LGR971|LED_OSRAM_LGR971|7|
+15|Header 10X2|Header, 10-Pin, Dual row|P2|HDR2X10|Header 10X2|1|
+16|Header 2|Header, 2-Pin|P3, P4|HDR1X2|Header 2|2|
+17|Header 4X2|Header, 4-Pin, Dual row|P5|HDR2X4|Header 4X2|1|
+18|Header 4|Header, 4-Pin|P6, P7|HDR1X4|Header 4|2|
+19|Header 4H|Header, 4-Pin, Right Angle|P8|HDR1X4H|Header 4H|1|
+20|BSS308PE|P-Channel OptiMOS P3 Small-Signal-Transistor, -30 V VDS, -2 A ID, -55 to 150 degC, PG-SOT23, Reel, Green|Q1|INF-PG-SOT23_N|BSS308PE|1|
+21|MMBT3904LT1G|General Purpose Transistor, NPN Silicon, 3-Pin SOT-23, Pb-Free, Tape and Reel|Q2|ONSC-SOT-23-3-318-08_V|MMBT3904LT1G|1|
+22|BC817-25LT1|General Purpose Transistor, NPN Silicon, 3-Pin SOT-23, Tape and Reel|Q3, Q4|ONSC-SOT-23-3-318-08_V|BC817-25LT1|2|
+23|1K|Resistor - 0.1%|R1, R2, R4, R8, R14, R19, R20, R21, R25, R26, R27, R28, R31|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|13|1K
+24|26K|Resistor - 0.1%|R3|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|1|26K
+25|100K|Resistor - 0.1%|R5, R18, R22, R24|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|4|100K
+26|1K2|Resistor - 0.1%|R6, R10, R12, R13|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|4|1K2
+27|10K|Resistor - 0.1%|R7, R11|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|2|10K
+28|100R|Resistor - 0.1%|R9|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|1|100R
+29|RC0805FR-07430KL|Resistor - 0.1%|R15|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|1|150K
+30|150K|Resistor - 0.1%|R16, R17|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|2|150K
+31|2K2|Resistor - 0.1%|R23|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|1|2K2
+32|4k7|Resistor - 0.1%|R29, R30, R32, R33, R34, R35, R36, R37|RESC2012X60N|R0805_1K1_0.1%_0.1W_10PPM|8|4k7
+33|434111043826|WS-TASV SMD Tact Switch 6.0X3.5 mm|SW1, SW2|434111043826|434111043826|2|
+34|BC817|NPN Transistor|T1|SOT95P230X110-3N|BC817|1|
+35|STM32F030K6T6|ARM Cortex-M0 32-bit MCU, 32 KB Flash, 4 KB Internal RAM, 26 I/Os, 32-pin LQFP, -40 to 85 degC, Tray|U1|STM-LQFP32_N|STM32F030K6T6|1|
+36|MAX8586ETA+T|Single 1.2A USB Switch, 8-Pin TDFN, -40°C to +85°C, Pb-Free, Tape and Reel|U2|T833+2|MAX8586ETA+T|1|
+37|MIC2288||U3|TSOT25|MIC2288|1|
+38|AP22802||U4|TSOT25|AP22802|1|
+39|AP3401||U5|TSOT26|AP3401|1|
+40|MCP73832T-2DFI/OT|Miniature Single-Cell, Fully Integrated Li-Ion, Li-Polymer Charge Management Controller, 4.2V, 5-Pin SOT-23, Industrial Temperature, Tape and Reel|U6|SOT-23-OT5_N|MCP73832T-2DFI/OT|1|
+41|4SMX|Surface Mount Quartz Crystal|Y1|4SMX|4SMX|1|

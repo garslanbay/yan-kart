@@ -1,0 +1,63 @@
+Protel Design System Design Rule Check
+PCB File : D:\programlar\RF Coklu proje\RF Yan Kart\RF_kucuk_kart\mainpcb.PcbDoc
+Date     : 20.07.2017
+Time     : 23:56:50
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (InNamedPolygon('GND_L01_P013')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (InNamedPolygon('GND_L02_P015')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.178mm) (All),(All)
+   Violation between Clearance Constraint: (Collision < 0.178mm) Between Track (82.169mm,39.411mm)(84.963mm,39.411mm) on Keep-Out Layer And Pad L2-2(83.566mm,38.944mm) on Top Layer 
+   Violation between Clearance Constraint: (Collision < 0.178mm) Between Track (82.169mm,40.427mm)(84.963mm,40.427mm) on Keep-Out Layer And Pad L2-1(83.566mm,40.894mm) on Top Layer 
+Rule Violations :2
+
+Processing Rule : Clearance Constraint (Gap=0.178mm) (InNamedPolygon('+5V_L01_P000')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.203mm) (InNamedPolygon('3V3_L01_P018')),(All)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.152mm) (Max=1.27mm) (Preferred=0.508mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.051mm) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (0.01mm < 0.051mm) Between Text "R35" (92.456mm,6.35mm) on Top Overlay And Track (92.52mm,5.446mm)(92.52mm,6.261mm) on Top Overlay Silk Text to Silk Clearance [0.01mm]
+Rule Violations :1
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
+Rule Violations :0
+
+
+Violations Detected : 3
+Waived Violations : 0
+Time Elapsed        : 00:00:02

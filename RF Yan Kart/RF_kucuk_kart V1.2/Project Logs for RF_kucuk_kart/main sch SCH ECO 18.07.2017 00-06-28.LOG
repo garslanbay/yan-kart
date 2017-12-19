@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=U3 Old Footprint=TSOT25 New Footprint=MCHP-SOT-23-CH6_L
+Change Component Comment: Designator=U3 Old Comment=MIC2288 New Comment=DIO6305BCST6
+Change Pin Designator/Name:  Old Designator=U3-3 Old Name=FB New Designator =EN New Name=4
+Change Pin Designator/Name:  Old Designator=U3-4 Old Name=EN New Designator =FB New Name=3

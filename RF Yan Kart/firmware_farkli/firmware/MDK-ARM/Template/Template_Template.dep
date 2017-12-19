@@ -1,0 +1,10 @@
+Dependencies for Project 'Template', Target 'Template': (DO NOT MODIFY !)
+F (..\startup_stm32f030.s)(0x54808D0E)(--cpu Cortex-M0 -g --apcs=interwork --pd "__MICROLIB SETA 1" -I ..\Include -I ..\STM32F0xx_StdPeriph_Driver\inc -I ..\STM32F0xx_StdPeriph_Driver\src-I"D:\programlar\RF Coklu proje\RF Yan Kart\firmware\MDK-ARM\RTE\_Template"-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 522" --pd "STM32F030x6 SETA 1"--list startup_stm32f030.lst --xref -o template\startup_stm32f030.o --depend template\startup_stm32f030.d)
+F (.\main.c)(0x59C17C04)(-c --cpu Cortex-M0 -D__MICROLIB -g -O0 --apcs=interwork --split_sections -I ..\..\STM32F072RB -I ..\Include -I ..\STM32F0xx_StdPeriph_Driver\inc -I ..\STM32F0xx_StdPeriph_Driver\src --C99-I"D:\programlar\RF Coklu proje\RF Yan Kart\firmware\MDK-ARM\RTE\_Template"-IC:\Keil_v5_1\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include-IC:\Keil_v5_1\ARM\CMSIS\Include-D__UVISION_VERSION="522" -DSTM32F030x6 -DUSE_STDPERIPH_DRIVER -DSTM32F0XX_HD -DHSE_VALUE="8000000"-o template\main.o --omf_browse template\main.crf --depend template\main.d)
+I (C:\Keil_v5_1\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f0xx.h)(0x56EA3C8A)
+I (C:\Keil_v5_1\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f030x6.h)(0x56EA3C8A)
+I (..\Include\core_cm0.h)(0x52D7F961)
+I (C:\Keil_v5_1\ARM\ARMCC\include\stdint.h)(0x57F64D08)
+I (..\Include\core_cmInstr.h)(0x52D7F961)
+I (..\Include\core_cmFunc.h)(0x52D7F961)
+I (C:\Keil_v5_1\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\system_stm32f0xx.h)(0x56EA3C8A)

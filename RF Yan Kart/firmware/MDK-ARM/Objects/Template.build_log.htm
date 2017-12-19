@@ -1,0 +1,57 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: µVision V5.22.0.0
+Copyright (C) 2016 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: we we, we, LIC=8MZAR-KRIT2-PGF7L-0NAIG-9UMXC-S74JC
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Professional  Version: 5.22
+Toolchain Path:  C:\Keil_v5_1\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 4 (build 422)
+Assembler:       Armasm.exe V5.06 update 4 (build 422)
+Linker/Locator:  ArmLink.exe V5.06 update 4 (build 422)
+Library Manager: ArmAr.exe V5.06 update 4 (build 422)
+Hex Converter:   FromElf.exe V5.06 update 4 (build 422)
+CPU DLL:         SARMCM3.DLL V5.22
+Dialog DLL:      DARMCM1.DLL V1.15.0.0
+Target DLL:      Segger\JL2CM3.dll V2.99.23.0
+Dialog DLL:      TARMCM1.DLL V1.11.0.0
+ 
+<h2>Project:</h2>
+D:\programlar\RF Coklu proje\RF Yan Kart\firmware\MDK-ARM\Template.uvprojx
+Project File Date:  10/10/2017
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 4 (build 422)', folder: 'C:\Keil_v5_1\ARM\ARMCC\Bin'
+Build target 'Target 1'
+compiling main.c...
+..\main.c(154): warning:  #223-D: function "sprintf" declared implicitly
+  				sprintf((char *)giden,"%1.2f %1.2f %1.2f %2.2f %2.1f",Bat_voltage,Gas_voltage,Vdda,temp,rh);
+..\main.c(349): warning:  #167-D: argument of type "int32_t *" is incompatible with parameter of type "uint32_t *"
+  		Si7013_ReadNoHoldRHAndTemp(&rh_data,&temp_data);
+..\main.c(753): warning:  #550-D: variable "gpio_init"  was set but never used
+  	GPIO_InitTypeDef gpio_init;
+..\main.c(788): warning:  #223-D: function "sprintf" declared implicitly
+  			sprintf((char *)giden,"A%04u",base_add);
+..\main.c(594): warning:  #177-D: function "RTC_AlarmConfig"  was declared but never referenced
+  static void RTC_AlarmConfig(void)
+..\main.c(633): warning:  #177-D: function "SYSCLKConfig_STOP"  was declared but never referenced
+  static void SYSCLKConfig_STOP(void)
+..\main.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=14900 RO-data=484 RW-data=148 ZI-data=2060  
+FromELF: creating hex file...
+".\Objects\Template.axf" - 0 Error(s), 6 Warning(s).
+
+<h2>Collection of Component include folders:</h2>
+  D:\programlar\RF Coklu proje\RF Yan Kart\firmware\MDK-ARM\RTE\_Target_1
+  C:\Keil_v5_1\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:02
+</pre>
+</body>
+</html>

@@ -1,0 +1,7 @@
+--cpu Cortex-M0
+"template\startup_stm32f030.o"
+"template\main.o"
+--library_type=microlib --strict --scatter "Template\Template.sct"
+--diag_suppress=L6329 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Template.map" -o Template\Template.axf

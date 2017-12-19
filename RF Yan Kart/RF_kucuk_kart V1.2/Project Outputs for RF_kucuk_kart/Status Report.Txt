@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [RF_kucuk_kart.PrjPcb]
+   Generated File[mainpcb.TXT]
+   Generated File[mainpcb.LDP]
+   Generated File[mainpcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:42:35 On 12.08.2017

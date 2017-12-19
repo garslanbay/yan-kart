@@ -1,0 +1,13 @@
+template\system_stm32f0xx.o: ..\system_stm32f0xx.c
+template\system_stm32f0xx.o: ..\stm32f0xx.h
+template\system_stm32f0xx.o: ..\Include\core_cm0.h
+template\system_stm32f0xx.o: C:\Keil_v5_1\ARM\ARMCC\Bin\..\include\stdint.h
+template\system_stm32f0xx.o: ..\Include\core_cmInstr.h
+template\system_stm32f0xx.o: ..\Include\core_cmFunc.h
+template\system_stm32f0xx.o: ..\system_stm32f0xx.h
+template\system_stm32f0xx.o: ..\stm32f0xx_conf.h
+template\system_stm32f0xx.o: ..\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
+template\system_stm32f0xx.o: C:\Keil_v5_1\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f0xx.h
+template\system_stm32f0xx.o: C:\Keil_v5_1\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\stm32f030x6.h
+template\system_stm32f0xx.o: ..\Include\core_cm0.h
+template\system_stm32f0xx.o: C:\Keil_v5_1\ARM\PACK\Keil\STM32F0xx_DFP\1.5.0\Device\Include\system_stm32f0xx.h
